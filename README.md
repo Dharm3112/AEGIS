@@ -24,10 +24,10 @@ The project follows a **Microservices-inspired** architecture to ensure scalabil
 
 ```mermaid
 graph TD
-    A[Mobile App (React Native)] -->|SOS + GPS| B(Node.js Backend)
-    C[Web Dashboard (React)] <-->|Real-time Socket| B
-    B <-->|Store Data| D[(PostgreSQL DB)]
-    B <-->|Analyze Text| E[Python AI Service]
+    A["Mobile App (React Native)"] -->|"SOS + GPS"| B("Node.js Backend")
+    C["Web Dashboard (React)"] <-->|"Real-time Socket"| B
+    B <-->|"Store Data"| D[("PostgreSQL DB")]
+    B <-->|"Analyze Text"| E["Python AI Service"]
 ````
 
 ### 💻 Tech Stack
