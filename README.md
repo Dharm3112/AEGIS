@@ -148,14 +148,14 @@ npx expo start
 
 -----
 
-## 📸 Screenshots
+<!-- ## 📸 Screenshots
 
 | Mobile SOS | Web Command Center |
 | :---: | :---: |
 | *(Add Screenshot Here)* | *(Add Screenshot Here)* |
 
 -----
-
+-->
 ## 🔮 Future Roadmap
 
   * [ ] **Authentication:** Add JWT Login for Volunteers and Admins.
@@ -175,8 +175,9 @@ Contributions are what make the open source community such an amazing place to l
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
 
------
+---
 
+<p align="center">
+  <b>Serenipy</b> • Created by <a href="https://github.com/Dharm3112"><b>Dharm Patel</b></a>
+</p>
 
-```
-```
