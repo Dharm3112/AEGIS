@@ -1,4 +1,3 @@
-
 # 🛡️ AEGIS (LifeLine) - Intelligent Disaster Response Platform
 
 > **A Hyper-Local Crisis Management System connecting Victims, Volunteers, and NGOs in real-time.**
